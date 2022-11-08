@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-Netherlands eScience Center,online,NA,NA,NA,"December 05 - 08, 2022",9:00 - 13:00 CET,2022-12-04T23:00:00Z,2022-12-07T23:00:00Z,"Djura Smits, Sven van der Burg, Cunliang Geng","Barbara Vreede, Robin Richardson, Ole Mussmann",ds,ds-dl-intro,Introduction to Deep Learning,2022-12-05-ds-dl-intro,NA
+Netherlands eScience Center,online,NA,NA,NA,"December 05 - 08, 2022",9:00 - 13:00 CET,2022-12-04T23:00:00Z,2022-12-07T23:00:00Z,"Djura Smits, Cunliang Geng, Pranav Chandramouli","Robin Richardson, Ole Mussmann",ds,ds-dl-intro,Introduction to Deep Learning,2022-12-05-ds-dl-intro,NA
